@@ -45,3 +45,8 @@ a {
     margin: auto;
     display: flex;
 }
+
+.disclaimer {
+    color: red;
+    font-size: 18px;
+}
