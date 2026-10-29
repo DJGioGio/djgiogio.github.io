@@ -1,0 +1,80 @@
+.title {
+    font-size: 128px;
+    text-align: center;
+    font-family: Finlikless-Regular;
+    margin: 0px;
+    padding: 0px;
+    line-height: 100px;
+}
+
+p {
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+hr {
+    border: rgb(255, 255, 255) dashed 2px;
+    border-radius: 200%;
+}
+
+@font-face {
+    font-family: Finlikless-Regular;
+    src: url(/FONTS/Finlikless-Regular.ttf);
+}
+
+@font-face {
+    font-family: Manolo;
+    src: url(/FONTS/manolomono.otf);
+}
+
+.logohover {
+    transition: 0.4s;
+    border: 2px;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0);
+    margin: 0% auto;
+    font-weight: 100;
+}
+
+.logohover:hover {
+    font-size: 115%;
+    border: 0px;
+    border-color: rgba(0, 0, 0, 0);
+    letter-spacing: 10%;
+    color: rgb(0, 255, 0);
+    font-weight: 1000;
+}
+
+.textcolor {
+    color: white;
+    font-family: Manolo;
+}
+
+.box {
+    margin-left: 20%;
+    transform: translateY(-28px);
+    margin-right: 20%;
+    padding: 2%;
+}
+
+.separate {
+    border-left: 3px solid white;
+    padding-right: 2.5%;
+}
+
+a:link {
+    text-decoration: none;
+    color: lime;
+}
+
+a:hover {
+    color: green;
+}
+
+.bottomsect {
+    text-align: center;
+    font-size: 16px;
+}

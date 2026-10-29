@@ -1,0 +1,81 @@
+.commstitle {
+    font-size: 76px;
+    text-align: center;
+    color: lime;
+    letter-spacing: 8px;
+}
+
+.commstitle2 {
+    font-size: 56px;
+    text-align: center;
+    color: lime;
+    letter-spacing: 12px;
+}
+
+.commstitle3 {
+    font-size: 56px;
+    text-align: center;
+    color: red;
+    letter-spacing: 12px;
+}
+
+.boxcomms {
+    border: 3px white solid;
+    margin: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    border-style: dashed;
+    border-radius: 4px;
+    margin-left: 21%;
+    margin-right: 21%;
+}
+
+.separateALT  {
+    border-left: 4px solid lime;
+    padding-right: 3%;
+}
+
+.separateALT2  {
+    border-left: 4px solid red;
+    padding-right: 3%;
+}
+
+.imagedisplay {
+    display :block;
+    margin: auto;
+    width: 750px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 3px white solid;
+    border-style: dashed;
+    border-radius: 4px;
+}
+
+.imagedisplay2 {
+    display :block;
+    margin: auto;
+    width: 560px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 3px white solid;
+    border-style: dashed;
+    border-radius: 4px;
+
+}
+
+.ocname {
+    text-align: center;
+    font-size: 48px;
+}
+
+.credity {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.favourite {
+    color: yellow;
+    font-size: 24px;
+    margin-left: 15%;
+    margin-right: 15%;
+}

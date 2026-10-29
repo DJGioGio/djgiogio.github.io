@@ -1,0 +1,16 @@
+@font-face {
+    font-family: SweetSansPro;
+    src: url(/FONTS/fonnts.com-SweetSansProMedium.otf);
+}
+
+.error {
+    font-family: SweetSansPro;
+    font-size: 16px;
+    color: white;
+    background-color: black;
+    display: block;
+    text-align: left;
+    padding-top: 15%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
