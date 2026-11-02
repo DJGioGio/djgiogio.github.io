@@ -1,0 +1,17 @@
+.backgr {
+    background-color: rgb(30, 30, 30);
+}
+
+.nothr {
+    border: 3px white solid;
+    border-radius: 0px;
+}
+
+h2 {
+    margin-bottom: 0px;
+}
+
+h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
