@@ -1,0 +1,32 @@
+.shoutoutbox {
+    border: 3px white solid;
+    border-radius: 4px;
+    padding: 2%;
+    margin-left: 10%;
+    margin-top: 3%;
+    margin-right: 10%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(0, 1fr);
+    gap: 0px;
+    text-align: left;
+}
+
+.pfp {
+    width: 128px;
+}
+    
+.sobox1 {
+    grid-row: span 3 / span 2;
+}
+
+.sobox2 {
+    grid-column: span 6 / span 6;
+}
+
+.sobox3 {
+    grid-column: span 6 / span 6;
+    grid-column-start: 2;
+    grid-row-start: 2;
+}
+        
