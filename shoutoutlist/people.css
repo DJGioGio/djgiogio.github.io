@@ -2,18 +2,19 @@
     border: 3px white solid;
     border-radius: 4px;
     padding: 2%;
-    margin-left: 10%;
+    margin-left: 7%;
     margin-top: 3%;
-    margin-right: 10%;
+    margin-right: 7%;
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(0, 1fr);
-    gap: 0px;
+    gap: 2%;
     text-align: left;
 }
 
 .pfp {
-    width: 128px;
+    width: 100%;
+    border-radius: 100%;
 }
     
 .sobox1 {

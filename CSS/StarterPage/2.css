@@ -1,12 +1,11 @@
 .commstitle {
-    font-size: 76px;
+    font-size: 56px;
     text-align: center;
     color: lime;
-    letter-spacing: 8px;
 }
 
 .commstitle2 {
-    font-size: 56px;
+    font-size: 48px;
     text-align: center;
     color: lime;
     letter-spacing: 12px;
@@ -22,12 +21,12 @@
 .boxcomms {
     border: 3px white solid;
     margin: 12px;
-    padding-left: 24px;
-    padding-right: 24px;
+    padding-left: 16px;
+    padding-right: 16px;
     border-style: dashed;
     border-radius: 4px;
-    margin-left: 21%;
-    margin-right: 21%;
+    margin-left: 8%;
+    margin-right: 8%;
 }
 
 .separateALT  {
@@ -41,9 +40,9 @@
 }
 
 .imagedisplay {
-    display :block;
+    display: block;
     margin: auto;
-    width: 750px;
+    width: 65%;
     margin-top: 20px;
     margin-bottom: 20px;
     border: 3px white solid;
@@ -52,9 +51,9 @@
 }
 
 .imagedisplay2 {
-    display :block;
+    display: block;
     margin: auto;
-    width: 560px;
+    width: 50%;
     margin-top: 20px;
     margin-bottom: 20px;
     border: 3px white solid;
