@@ -1,0 +1,32 @@
+@font-face {
+    font-family: Acumin-RPro;
+    src: url(/FONTS/Acumin-RPro.otf);
+}
+
+h1, h2, h3, p, a {
+    font-family: Acumin-RPro;
+}
+
+body {
+    background-color: black;
+    color: white;
+    line-height: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: lime;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+hr {
+    border: 3px white solid;
+}
