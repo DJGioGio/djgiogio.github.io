@@ -1,20 +1,18 @@
 .shoutoutbox {
-    border: 3px white solid;
-    border-radius: 4px;
-    padding: 2%;
-    margin-left: 7%;
-    margin-top: 3%;
-    margin-right: 7%;
+    padding: 3%;
+    margin-left: 17%;
+    margin-top: 2%;
+    margin-right:17%;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(0, 1fr);
-    gap: 2%;
+    gap: 1%;
     text-align: left;
 }
 
 .pfp {
-    width: 100%;
-    border-radius: 100%;
+    width: 75%;
+    border-radius: 25%;
 }
     
 .sobox1 {

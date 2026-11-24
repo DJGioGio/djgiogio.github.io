@@ -30,3 +30,7 @@ a:visited {
 hr {
     border: 3px white solid;
 }
+
+img {
+    width: 50%;
+}
